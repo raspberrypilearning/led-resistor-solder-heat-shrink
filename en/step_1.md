@@ -1,59 +1,45 @@
-## Introduction
+## Soldering an LED, resistor and jumper wires
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+- You will need an LED, a resistor (70 ohm or greater), two jumper leads with sockets and heatsrhink tubing.
 
-### What you will make
+![components listed shown along with a roll of solder](images/you_will_need.jpg)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+- Heat both one of the legs of the LED for a few seconds and then evenly apply solder to tin it, and repeat for the other leg.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![both legs of the LED being tinned with solder](images/tin_led.gif)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+- Heat both one of the legs of the resistor for a few seconds and then evenly apply solder to tin it, and repeat for the other leg.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+![both legs of the resistor being tinned with solder](images/tin_resistor.gif)
 
-+ A computer or tablet capable of running Scratch 3
+- Align a leg of the LED with a leg of the resistor then apply heat until the two of them bond.
 
-### Software
+![LED being bonded with resistor using a soldering iron](images/bond_resistor.gif)
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+- Strip two jumper leads so each has a single socketed end.
 
-### Downloads
+![two jumper leads being stripped to reveal the copper threads](images/strip_jumpers.gif)
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+- Tin both jumper leads.
 
---- /collapse ---
+![two jumper leads being tinned with solder](images/tin_jumpers.gif)
 
---- collapse ---
----
-title: What you will learn
----
+- Place heatshrink tubing over both jumper leads.
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+![heatshrink tubing place over both jumper leads](images/add_heatshrink.gif)
 
---- /collapse ---
+- Bond the jumper leads to the resistor and the other leg of the LED.
 
---- collapse ---
----
-title: Additional information for educators
----
+![jumper leads being bonded to the resistor and remaining LED leg using a soldering iron](images/bond_jumpers.gif)
 
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
+- Slide the heatshrink tubing over the soldered joins.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+![heatshrink being slid over the bonds](images/place_heatshrink.gif)
 
---- /collapse ---
+- Use the wide edge of the soldering iron to heat the tubing until it is tight around the joins and the jumper leads.
+
+![heatshrink being heated using the thick edge of a soldering iron to shrink it](images/heat_heatshrink.gif)
+
+- Test the LED using a 3V3 and GND pin.
+
+![LED lighting when the jumper leads are attached to a 3v3 pin and GND pin](images/test_led.gif)
