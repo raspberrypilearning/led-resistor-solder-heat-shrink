@@ -1,45 +1,45 @@
-## Soldering an LED, resistor and jumper wires
+## Solderen van een LED, weerstand en jumperdraden
 
-- You will need an LED, a resistor (70 ohm or greater), two jumper leads with sockets and heatsrhink tubing.
+- Je hebt een LED nodig, een weerstand (70 ohm of meer), twee jumperkabels met socketaansluiting en krimpkous.
 
-![components listed shown along with a roll of solder](images/you_will_need.jpg)
+![componenten weergegeven samen met een rol soldeertin](images/you_will_need.jpg)
 
-- Heat both one of the legs of the LED for a few seconds and then evenly apply solder to tin it, and repeat for the other leg.
+- Verwarm beide poten van de LED een paar seconden en breng vervolgens gelijkmatig soldeer aan om het te vertinnen en herhaal voor het andere been.
 
-![both legs of the LED being tinned with solder](images/tin_led.gif)
+![beide poten van de LED worden vertind met soldeer](images/tin_led.gif)
 
-- Heat both one of the legs of the resistor for a few seconds and then evenly apply solder to tin it, and repeat for the other leg.
+- Verwarm beide poten van de weerstand een paar seconden en breng dan gelijkmatig soldeer aan om het te vertinnen, en herhaal voor de andere poot.
 
-![both legs of the resistor being tinned with solder](images/tin_resistor.gif)
+![beide poten van de weerstand worden vertind met soldeer](images/tin_resistor.gif)
 
-- Align a leg of the LED with a leg of the resistor then apply heat until the two of them bond.
+- Leg een poot van de LED langs een poot van de weerstand en breng vervolgens warmte aan totdat de twee zich hechten.
 
-![LED being bonded with resistor using a soldering iron](images/bond_resistor.gif)
+![LED wordt verbonden met weerstand met behulp van een soldeerbout](images/bond_resistor.gif)
 
-- Strip two jumper leads so each has a single socketed end.
+- Strip twee jumperdraden, zodat elk een enkel socket uiteinde heeft.
 
-![two jumper leads being stripped to reveal the copper threads](images/strip_jumpers.gif)
+![twee jumperdraden worden gestript om de koperdraden vrij te maken](images/strip_jumpers.gif)
 
-- Tin both jumper leads.
+- Vertin beide jumper uiteinden.
 
-![two jumper leads being tinned with solder](images/tin_jumpers.gif)
+![twee jumper draden vertind met soldeer](images/tin_jumpers.gif)
 
-- Place heatshrink tubing over both jumper leads.
+- Plaats de krimpkous over beide jumperdraden.
 
-![heatshrink tubing place over both jumper leads](images/add_heatshrink.gif)
+![krimpkous over beide jumperdraden plaatsen](images/add_heatshrink.gif)
 
-- Bond the jumper leads to the resistor and the other leg of the LED.
+- Verbind de jumperdraden met de weerstand en het andere been van de LED.
 
-![jumper leads being bonded to the resistor and remaining LED leg using a soldering iron](images/bond_jumpers.gif)
+![jumperdraden worden verbonden met de weerstand en de andere LED-poot met gebruik van een soldeerbout](images/bond_jumpers.gif)
 
-- Slide the heatshrink tubing over the soldered joins.
+- Schuif de krimpkous over de gesoldeerde verbindingen.
 
-![heatshrink being slid over the bonds](images/place_heatshrink.gif)
+![krimpkous wordt over de bindingen geschoven](images/place_heatshrink.gif)
 
-- Use the wide edge of the soldering iron to heat the tubing until it is tight around the joins and the jumper leads.
+- Gebruik de brede rand van de soldeerbout om de krimpkous te verwarmen totdat deze strak rond de verbindingen en de jumperdraden zit.
 
-![heatshrink being heated using the thick edge of a soldering iron to shrink it](images/heat_heatshrink.gif)
+![krimpkous wordt verwarmd met behulp van de dikke kant van een soldeerbout om het te laten krimpen](images/heat_heatshrink.gif)
 
-- Test the LED using a 3V3 and GND pin.
+- Test de LED met een 3V3- en GND-pin.
 
-![LED lighting when the jumper leads are attached to a 3v3 pin and GND pin](images/test_led.gif)
+![LED geeft licht wanneer de jumperdraden zijn bevestigd aan een 3v3-pin en GND-pin](images/test_led.gif)
