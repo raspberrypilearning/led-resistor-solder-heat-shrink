@@ -1,45 +1,45 @@
-## Soldering an LED, resistor and jumper wires
+## Souder une LED, une résistance et des fils de connexion
 
-- You will need an LED, a resistor (70 ohm or greater), two jumper leads with sockets and heatsrhink tubing.
+- Tu auras besoin d'une LED, d'une résistance (70 ohms ou plus), de deux câbles avec prises et d'une gaine thermorétractable.
 
-![components listed shown along with a roll of solder](images/you_will_need.jpg)
+![composants répertoriés illustrés avec un rouleau de soudure](images/you_will_need.jpg)
 
-- Heat both one of the legs of the LED for a few seconds and then evenly apply solder to tin it, and repeat for the other leg.
+- Chauffe une des deux pattes de la LED pendant quelques secondes, puis applique uniformément de la soudure pour l'étamer et répète pour l'autre patte.
 
-![both legs of the LED being tinned with solder](images/tin_led.gif)
+![les deux pattes de la LED étant étamées avec de la soudure](images/tin_led.gif)
 
-- Heat both one of the legs of the resistor for a few seconds and then evenly apply solder to tin it, and repeat for the other leg.
+- Chauffe une des deux pattes de la résistance pendant quelques secondes, puis applique uniformément de la soudure pour l'étamer et répète pour l'autre patte.
 
-![both legs of the resistor being tinned with solder](images/tin_resistor.gif)
+![les deux pattes de la résistance étant étamées avec de la soudure](images/tin_resistor.gif)
 
-- Align a leg of the LED with a leg of the resistor then apply heat until the two of them bond.
+- Aligne une patte de la LED avec une patte de la résistance puis applique de la chaleur jusqu'à ce que les deux se soudent ensemble.
 
-![LED being bonded with resistor using a soldering iron](images/bond_resistor.gif)
+![LED étant soudée à une résistance à l'aide d'un fer à souder](images/bond_resistor.gif)
 
-- Strip two jumper leads so each has a single socketed end.
+- Dénude deux câbles de façon à ce que chacun ait une seule extrémité avec une prise.
 
-![two jumper leads being stripped to reveal the copper threads](images/strip_jumpers.gif)
+![deux câbles dénudés pour révéler les fils de cuivre](images/strip_jumpers.gif)
 
-- Tin both jumper leads.
+- Étame les deux fils dénudés.
 
-![two jumper leads being tinned with solder](images/tin_jumpers.gif)
+![deux câbles étant étamés avec de la soudure](images/tin_jumpers.gif)
 
-- Place heatshrink tubing over both jumper leads.
+- Place la gaine thermorétractable sur les deux câbles.
 
-![heatshrink tubing place over both jumper leads](images/add_heatshrink.gif)
+![place de la gaine thermorétractable sur les deux câbles](images/add_heatshrink.gif)
 
-- Bond the jumper leads to the resistor and the other leg of the LED.
+- Soude le fil à la résistance et à l'autre branche de la LED.
 
-![jumper leads being bonded to the resistor and remaining LED leg using a soldering iron](images/bond_jumpers.gif)
+![les câbles sont soudés à la résistance et à la patte de la LED restante à l'aide d'un fer à souder](images/bond_jumpers.gif)
 
-- Slide the heatshrink tubing over the soldered joins.
+- Fais glisser la gaine thermorétractable sur les soudures.
 
-![heatshrink being slid over the bonds](images/place_heatshrink.gif)
+![gaine thermorétractable étant glissée sur les soudures](images/place_heatshrink.gif)
 
-- Use the wide edge of the soldering iron to heat the tubing until it is tight around the joins and the jumper leads.
+- Utilise le bord large du fer à souder pour chauffer la gaine jusqu'à ce qu'elle soit bien serrée autour des soudures et des câbles.
 
-![heatshrink being heated using the thick edge of a soldering iron to shrink it](images/heat_heatshrink.gif)
+![gaine thermorétractable chauffée à l'aide du bord épais d'un fer à souder pour la rétrécir](images/heat_heatshrink.gif)
 
-- Test the LED using a 3V3 and GND pin.
+- Teste la LED à l'aide de la broche 3V3 et prise GND.
 
-![LED lighting when the jumper leads are attached to a 3v3 pin and GND pin](images/test_led.gif)
+![Éclairage de la LED lorsque les câbles sont attachés à une broche 3v3 et une prise GND](images/test_led.gif)
