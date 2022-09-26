@@ -1,10 +1,10 @@
-title: Attach resistors and jumper wires to an LED with solder and heat shrink
+title: قم بتوصيل المقاومات وأسلاك التوصيل بمتصل مضيء LED مع لحام وشرنك حراري (وهو عبارة عن أنبوب بلاستيكي يتقلص بالحرارة لحماية الاسلاك)
 hero_image: images/banner.png
-description: led-resistor-solder-heat-shrink description
+description: وصف متصل مضيء-مقاومة-لحام-شرنك حراري (وهو عبارة عن أنبوب بلاستيكي يتقلص بالحرارة لحماية الاسلاك)
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-02-07"
 steps:
   - 
-    title: Introduction
+    title: المقدمة
