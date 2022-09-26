@@ -1,45 +1,45 @@
-## Soldering an LED, resistor and jumper wires
+## لحام أسلاك LED والمقاومة والتوصيلات
 
-- You will need an LED, a resistor (70 ohm or greater), two jumper leads with sockets and heatsrhink tubing.
+- ستحتاج إلى متصل LED، ومقاومة (70 أوم أو أكثر)، وسلكين للتوصيل مع مقابس وأنابيب شرنك حراري (وهي عبارة عن أنابيب بلاستيكية تتقلص بالحرارة لحماية الاسلاك).
 
-![components listed shown along with a roll of solder](images/you_will_need.jpg)
+![المكونات المعروضة مع لفة من اللحام](images/you_will_need.jpg)
 
-- Heat both one of the legs of the LED for a few seconds and then evenly apply solder to tin it, and repeat for the other leg.
+- قم بتسخين كل من قطبي المتصل LED لبضع ثوان ثم قم بتطبيق اللحام بالتساوي لتثبيته، وكرر العملية للقطب الآخر.
 
-![both legs of the LED being tinned with solder](images/tin_led.gif)
+![يتم تلحيم كلا من قطبي LED بلحام القصدير](images/tin_led.gif)
 
-- Heat both one of the legs of the resistor for a few seconds and then evenly apply solder to tin it, and repeat for the other leg.
+- قم بتسخين إحدى قطبي المقاومة لبضع ثوان ثم قم بتطبيق اللحام بالتساوي على القصدير، وكرر الأمر مع القطب الآخر.
 
-![both legs of the resistor being tinned with solder](images/tin_resistor.gif)
+![يتم تلحيم قطبي المقاومة بلحام القصدير](images/tin_resistor.gif)
 
-- Align a leg of the LED with a leg of the resistor then apply heat until the two of them bond.
+- قم بمحاذاة قطب المتصل المضيء مع قطب المقاومة ثم استخدم الحرارة حتى يتماسك الاثنان.
 
-![LED being bonded with resistor using a soldering iron](images/bond_resistor.gif)
+![يتم ربط LED بالمقاومة باستخدام كاوي اللحام](images/bond_resistor.gif)
 
-- Strip two jumper leads so each has a single socketed end.
+- قم بتجريد اثنين من سلاك التوصيل بحيث يكون لكل منهما نهاية واحدة ذات مقبس.
 
-![two jumper leads being stripped to reveal the copper threads](images/strip_jumpers.gif)
+![يتم تجريد نهايتين من سلكي توصيل للكشف عن خيوط النحاس](images/strip_jumpers.gif)
 
-- Tin both jumper leads.
+- قم بتلحيم سلكي التوصيل بالقصدير.
 
-![two jumper leads being tinned with solder](images/tin_jumpers.gif)
+![يتم تلحيم اثنين من أسلاك التوصيل بلحام القصدير](images/tin_jumpers.gif)
 
-- Place heatshrink tubing over both jumper leads.
+- ضع أنبوب الشرنك الحراري على طرفي أسلاك التوصيل.
 
-![heatshrink tubing place over both jumper leads](images/add_heatshrink.gif)
+![مكان أنابيب الشرنك الحراري فوق كل من أسلاك التوصيل](images/add_heatshrink.gif)
 
-- Bond the jumper leads to the resistor and the other leg of the LED.
+- إثنِ أحد قطبي المقاومة حول القطب الأحمر للمتصل المضيء LED.
 
-![jumper leads being bonded to the resistor and remaining LED leg using a soldering iron](images/bond_jumpers.gif)
+![يتم ربط أسلاك التوصيل بالمقاومة وقطب LED المتبقية باستخدام كاوي اللحام](images/bond_jumpers.gif)
 
-- Slide the heatshrink tubing over the soldered joins.
+- حرك أنبوب الشرنك الحراري فوق الوصلات الملحومة.
 
-![heatshrink being slid over the bonds](images/place_heatshrink.gif)
+![انزلاق الشرنك الحراري على المقاومات والأقطاب](images/place_heatshrink.gif)
 
-- Use the wide edge of the soldering iron to heat the tubing until it is tight around the joins and the jumper leads.
+- استخدم الحافة العريضة لكاوي اللحام لتسخين الأنبوب حتى يتم إحكام ربطه حول الوصلات وأسلاك التوصيل.
 
-![heatshrink being heated using the thick edge of a soldering iron to shrink it](images/heat_heatshrink.gif)
+![يتم تسخين الشرنك الحراري باستخدام الحافة السميكة لكاوي اللحام لتقليصها](images/heat_heatshrink.gif)
 
-- Test the LED using a 3V3 and GND pin.
+- اختبر المتصل المضيء LED باستخدام قطبي 3V3 و GND.
 
-![LED lighting when the jumper leads are attached to a 3v3 pin and GND pin](images/test_led.gif)
+![إضاءة المتصل LED عند توصيل الأسلاك بقطب 3v3 وقطب GND](images/test_led.gif)
