@@ -1,45 +1,45 @@
-## Soldering an LED, resistor and jumper wires
+## Lödning av en lysdiod, motstånd och byglingskablar
 
-- You will need an LED, a resistor (70 ohm or greater), two jumper leads with sockets and heatsrhink tubing.
+- Du behöver en lysdiod, ett motstånd (70 ohm eller mer), två byglingskablar med uttag och krympslang.
 
-![components listed shown along with a roll of solder](images/you_will_need.jpg)
+![komponenter listade visas tillsammans med en rulle lödtenn](images/you_will_need.jpg)
 
-- Heat both one of the legs of the LED for a few seconds and then evenly apply solder to tin it, and repeat for the other leg.
+- Värm ena benet på lysdioden i några sekunder och applicera sedan lödtenn för att förtenna det, och upprepa för det andra benet.
 
-![both legs of the LED being tinned with solder](images/tin_led.gif)
+![båda benen på lysdioden förtennas med lödtenn](images/tin_led.gif)
 
-- Heat both one of the legs of the resistor for a few seconds and then evenly apply solder to tin it, and repeat for the other leg.
+- Värm ena benet på motståndet i några sekunder och applicera sedan lödtenn för att förtenna det, och upprepa för det andra benet.
 
-![both legs of the resistor being tinned with solder](images/tin_resistor.gif)
+![båda benen på motståndet förtennas med lödtenn](images/tin_resistor.gif)
 
-- Align a leg of the LED with a leg of the resistor then apply heat until the two of them bond.
+- Rikta in ett ben på lysdioden med ett ben på motståndet och applicera sedan värme tills de två smälter ihop med lödtennet.
 
-![LED being bonded with resistor using a soldering iron](images/bond_resistor.gif)
+![Lysdiod ihoplödd med motstånd med hjälp av en lödkolv](images/bond_resistor.gif)
 
-- Strip two jumper leads so each has a single socketed end.
+- Klipp och skala två bygelkablar så att var och en har en enda hylsa.
 
-![two jumper leads being stripped to reveal the copper threads](images/strip_jumpers.gif)
+![två bygelkablar klipps och skalas för att få fram koppartrådarna](images/strip_jumpers.gif)
 
-- Tin both jumper leads.
+- Förtenna båda byglingskablarna.
 
-![two jumper leads being tinned with solder](images/tin_jumpers.gif)
+![två byglingskablar förtennas med lödtenn](images/tin_jumpers.gif)
 
-- Place heatshrink tubing over both jumper leads.
+- Placera krympslangen över båda byglingskablarna.
 
-![heatshrink tubing place over both jumper leads](images/add_heatshrink.gif)
+![krympslangen placeras över båda byglingskablarna](images/add_heatshrink.gif)
 
-- Bond the jumper leads to the resistor and the other leg of the LED.
+- Löd fast byglingskablarna till motståndet och det andra benet på lysdioden.
 
-![jumper leads being bonded to the resistor and remaining LED leg using a soldering iron](images/bond_jumpers.gif)
+![bygyglingskablarna som löds till motståndet och det återstående lysdiodsbenet med hjälp av en lödkolv](images/bond_jumpers.gif)
 
-- Slide the heatshrink tubing over the soldered joins.
+- Skjut krympslangen över de lödda fogarna.
 
-![heatshrink being slid over the bonds](images/place_heatshrink.gif)
+![krymplslangen glider över fogarna](images/place_heatshrink.gif)
 
-- Use the wide edge of the soldering iron to heat the tubing until it is tight around the joins and the jumper leads.
+- Använd den breda sidan på lödkolven för att värma upp slangen tills den krymper och sitter tätt runt skarvarna och byglingskablarna.
 
-![heatshrink being heated using the thick edge of a soldering iron to shrink it](images/heat_heatshrink.gif)
+![krymplsang som värms upp med den breda sidan på en lödkolv för att krympa den](images/heat_heatshrink.gif)
 
-- Test the LED using a 3V3 and GND pin.
+- Testa lysdioden med ett 3V3- och GND-stift.
 
-![LED lighting when the jumper leads are attached to a 3v3 pin and GND pin](images/test_led.gif)
+![LED-belysning när bygelkablarna är anslutna till ett 3v3-stift och GND-stift](images/test_led.gif)
