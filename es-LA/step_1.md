@@ -1,45 +1,45 @@
-## Soldering an LED, resistor and jumper wires
+## Cómo soldar un LED, una resistencia y cables de conexión
 
-- You will need an LED, a resistor (70 ohm or greater), two jumper leads with sockets and heatsrhink tubing.
+- Necesitarás un LED, una resistencia (de 70 ohmios o más), dos cables de conexión con conectores hembra y tubo termocontraíble.
 
-![components listed shown along with a roll of solder](images/you_will_need.jpg)
+![componentes de la lista junto a un rollo de soldadura](images/you_will_need.jpg)
 
-- Heat both one of the legs of the LED for a few seconds and then evenly apply solder to tin it, and repeat for the other leg.
+- Calienta una de las patas del LED durante unos segundos y luego aplica soldadura de manera uniforme para estañarla. Repite el proceso con la otra pata.
 
-![both legs of the LED being tinned with solder](images/tin_led.gif)
+![ambas patas del LED mientras se estañan con soldadura](images/tin_led.gif)
 
-- Heat both one of the legs of the resistor for a few seconds and then evenly apply solder to tin it, and repeat for the other leg.
+- Calienta una de las patas de la resistencia durante unos segundos y luego aplica soldadura de manera uniforme para estañarla. Repite el proceso con la otra pata.
 
-![both legs of the resistor being tinned with solder](images/tin_resistor.gif)
+![ambas patas de la resistencia mientras se estañan con soldadura](images/tin_resistor.gif)
 
-- Align a leg of the LED with a leg of the resistor then apply heat until the two of them bond.
+- Alinea una pata del LED con una pata de la resistencia y luego aplica calor hasta que se unan.
 
-![LED being bonded with resistor using a soldering iron](images/bond_resistor.gif)
+![LED mientras se une a la resistencia con un cautín](images/bond_resistor.gif)
 
-- Strip two jumper leads so each has a single socketed end.
+- Pela un extremo de cada cable de conexión y deja el conector hembra en el otro extremo.
 
-![two jumper leads being stripped to reveal the copper threads](images/strip_jumpers.gif)
+![dos cables de conexión mientras se pelan para dejar al descubierto los hilos de cobre](images/strip_jumpers.gif)
 
-- Tin both jumper leads.
+- Estaña ambos cables de conexión.
 
-![two jumper leads being tinned with solder](images/tin_jumpers.gif)
+![dos cables de conexión mientras se estañan con soldadura](images/tin_jumpers.gif)
 
-- Place heatshrink tubing over both jumper leads.
+- Coloca un trozo de tubo termocontraíble sobre cada cable de conexión.
 
-![heatshrink tubing place over both jumper leads](images/add_heatshrink.gif)
+![tubo termocontraíble colocado sobre ambos cables de conexión](images/add_heatshrink.gif)
 
-- Bond the jumper leads to the resistor and the other leg of the LED.
+- Suelda un cable de conexión a la resistencia y el otro a la pata libre del LED.
 
-![jumper leads being bonded to the resistor and remaining LED leg using a soldering iron](images/bond_jumpers.gif)
+![cables de conexión mientras se sueldan a la resistencia y a la pata libre del LED con un cautín](images/bond_jumpers.gif)
 
-- Slide the heatshrink tubing over the soldered joins.
+- Desliza los tubos termocontraíbles hasta cubrir las uniones soldadas.
 
-![heatshrink being slid over the bonds](images/place_heatshrink.gif)
+![tubos termocontraíbles mientras se deslizan sobre las uniones](images/place_heatshrink.gif)
 
-- Use the wide edge of the soldering iron to heat the tubing until it is tight around the joins and the jumper leads.
+- Usa el borde ancho del cautín para calentar los tubos hasta que queden ajustados alrededor de las uniones y los cables de conexión.
 
-![heatshrink being heated using the thick edge of a soldering iron to shrink it](images/heat_heatshrink.gif)
+![tubos termocontraíbles mientras se calientan con el borde ancho de un cautín para encogerlos](images/heat_heatshrink.gif)
 
-- Test the LED using a 3V3 and GND pin.
+- Prueba el LED con un pin 3V3 y un pin GND.
 
-![LED lighting when the jumper leads are attached to a 3v3 pin and GND pin](images/test_led.gif)
+![LED encendido al conectar los cables de conexión a un pin 3v3 y un pin GND](images/test_led.gif)
