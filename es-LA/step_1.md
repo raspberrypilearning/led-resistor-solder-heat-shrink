@@ -1,6 +1,6 @@
-## Cómo soldar un LED, una resistencia y cables de conexión
+## Cómo soldar un LED, una resistencia y cables puente
 
-- Necesitarás un LED, una resistencia (de 70 ohmios o más), dos cables de conexión con conectores hembra y tubo termocontraíble.
+- Necesitarás un LED, una resistencia (de 70 ohmios o más), dos cables puente con receptáculos y tubo termocontraíble.
 
 ![componentes de la lista junto a un rollo de soldadura](images/you_will_need.jpg)
 
@@ -14,32 +14,32 @@
 
 - Alinea una pata del LED con una pata de la resistencia y luego aplica calor hasta que se unan.
 
-![LED mientras se une a la resistencia con un cautín](images/bond_resistor.gif)
+![El LED se está uniendo a la resistencia usando un soldador](images/bond_resistor.gif)
 
-- Pela un extremo de cada cable de conexión y deja el conector hembra en el otro extremo.
+- Pela dos cables puente de manera que cada uno tenga un extremo con receptáculo.
 
-![dos cables de conexión mientras se pelan para dejar al descubierto los hilos de cobre](images/strip_jumpers.gif)
+![dos cables puente mientras se pelan para dejar al descubierto los hilos de cobre](images/strip_jumpers.gif)
 
-- Estaña ambos cables de conexión.
+- Estaña ambos cables puente.
 
-![dos cables de conexión mientras se estañan con soldadura](images/tin_jumpers.gif)
+![dos cables puente mientras se estañan con soldadura](images/tin_jumpers.gif)
 
-- Coloca un trozo de tubo termocontraíble sobre cada cable de conexión.
+- Coloca un trozo de tubo termocontraíble sobre cada cable puente.
 
-![tubo termocontraíble colocado sobre ambos cables de conexión](images/add_heatshrink.gif)
+![tubo termocontraíble colocado sobre ambos cables puente](images/add_heatshrink.gif)
 
-- Suelda un cable de conexión a la resistencia y el otro a la pata libre del LED.
+- Suelda un cable puente a la resistencia y el otro a la pata libre del LED.
 
-![cables de conexión mientras se sueldan a la resistencia y a la pata libre del LED con un cautín](images/bond_jumpers.gif)
+![cables puente mientras se sueldan a la resistencia y a la pata libre del LED con un soldador](images/bond_jumpers.gif)
 
 - Desliza los tubos termocontraíbles hasta cubrir las uniones soldadas.
 
 ![tubos termocontraíbles mientras se deslizan sobre las uniones](images/place_heatshrink.gif)
 
-- Usa el borde ancho del cautín para calentar los tubos hasta que queden ajustados alrededor de las uniones y los cables de conexión.
+- Utiliza el borde ancho del soldador para calentar el tubo hasta que quede bien ajustado alrededor de las uniones y los cables de conexión.
 
-![tubos termocontraíbles mientras se calientan con el borde ancho de un cautín para encogerlos](images/heat_heatshrink.gif)
+![tubos termocontraíbles mientras se calientan con el borde ancho de un soldador para encogerlos](images/heat_heatshrink.gif)
 
 - Prueba el LED con un pin 3V3 y un pin GND.
 
-![LED encendido al conectar los cables de conexión a un pin 3v3 y un pin GND](images/test_led.gif)
+![LED encendido al conectar los cables puente a un pin 3v3 y un pin GND](images/test_led.gif)
