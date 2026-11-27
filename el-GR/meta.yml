@@ -1,4 +1,3 @@
----
 title: Σύνδεσε αντιστάσεις και καλώδια jumper σε ένα LED με συγκόλληση και θερμική συρρίκνωση
 hero_image: images/banner.png
 description: περιγραφή led-αντίσταση-συγκόλληση-θερμότητα-συρρίκνωση
@@ -7,4 +6,5 @@ listed: false
 copyedit: false
 last_tested: "2022-02-07"
 steps:
-  - title: Εισαγωγή
+  - 
+    title: Εισαγωγή

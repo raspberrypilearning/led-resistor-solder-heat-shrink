@@ -43,4 +43,3 @@
 - Test de LED met een 3V3- en GND-pin.
 
 ![LED geeft licht wanneer de jumperdraden zijn bevestigd aan een 3v3-pin en GND-pin](images/test_led.gif)
-
