@@ -1,4 +1,3 @@
----
 title: Bevestig weerstanden en jumperdraden aan een LED met soldeer en krimpkous
 hero_image: images/banner.png
 description: led-weerstand-soldeer-hitte-krimp beschrijving
@@ -7,4 +6,5 @@ listed: false
 copyedit: false
 last_tested: "2022-02-07"
 steps:
-  - title: Inleiding
+  - 
+    title: Inleiding

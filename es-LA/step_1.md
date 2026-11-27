@@ -43,4 +43,3 @@
 - Prueba el LED con un pin 3V3 y un pin GND.
 
 ![LED encendido al conectar los cables puente a un pin 3v3 y un pin GND](images/test_led.gif)
-
