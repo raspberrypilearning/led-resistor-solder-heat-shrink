@@ -1,4 +1,3 @@
----
 title: Conecta resistencias y cables puente a un LED con soldadura y tubo termocontraíble
 hero_image: images/banner.png
 description: led-resistor-solder-heat-shrink description
@@ -7,4 +6,5 @@ listed: false
 copyedit: false
 last_tested: "2022-02-07"
 steps:
-  - title: Introducción
+  - 
+    title: Introducción
